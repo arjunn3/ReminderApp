@@ -1,0 +1,14 @@
+{
+  "name": "reminderapp",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+  "start": "npx ts-node src/index.ts"
+  },
+  "author": "Arjun N",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
